@@ -1,0 +1,136 @@
+{
+  "name": "Titled-Tuesday-Blitz-February-10-2026",
+  "url": "https://www.chess.com/tournament/live/titled-tuesday-blitz-february-10-2026-6221327",
+  "creator": "CHESScom",
+  "status": "finished",
+  "start_time": 1770739200,
+  "finish_time": 1770747355,
+  "settings": {
+    "type": "swiss",
+    "rules": "chess",
+    "is_rated": true,
+    "is_official": true,
+    "is_invite_only": false,
+    "user_advance_count": 1,
+    "winner_places": 3,
+    "registered_user_count": 455,
+    "total_rounds": 11,
+    "time_class": "blitz",
+    "time_control": "300"
+  },
+  "players": [
+    {
+      "username": "javokhir_sindarov05",
+      "status": "winner"
+    },
+    {
+      "username": "konavets",
+      "status": "registered"
+    },
+    {
+      "username": "nikotheodorou",
+      "status": "registered"
+    },
+    {
+      "username": "jefferyx",
+      "status": "registered"
+    },
+    {
+      "username": "bogdandeac",
+      "status": "registered"
+    },
+    {
+      "username": "faustinooro",
+      "status": "registered"
+    },
+    {
+      "username": "lyonbeast",
+      "status": "registered"
+    },
+    {
+      "username": "grischuk",
+      "status": "registered"
+    },
+    {
+      "username": "lachesisq",
+      "status": "registered"
+    },
+    {
+      "username": "vincentkeymer",
+      "status": "registered"
+    },
+    {
+      "username": "sanan_sjugirov",
+      "status": "registered"
+    },
+    {
+      "username": "fairchess_on_youtube",
+      "status": "registered"
+    },
+    {
+      "username": "polish_fighter3000",
+      "status": "registered"
+    },
+    {
+      "username": "shimastream",
+      "status": "registered"
+    },
+    {
+      "username": "zhuu96",
+      "status": "registered"
+    },
+    {
+      "username": "miterryble",
+      "status": "registered"
+    },
+    {
+      "username": "sibelephant",
+      "status": "registered"
+    },
+    {
+      "username": "andreikka",
+      "status": "registered"
+    },
+    {
+      "username": "amintabatabaei",
+      "status": "registered"
+    },
+    {
+      "username": "anton_demchenko",
+      "status": "registered"
+    },
+    {
+      "username": "rasmussvane",
+      "status": "registered"
+    },
+    {
+      "username": "akewjon",
+      "status": "registered"
+    },
+    {
+      "username": "superchess02",
+      "status": "registered"
+    },
+    {
+      "username": "hikaru",
+      "status": "registered"
+    },
+    {
+      "username": "dr_tyger",
+      "status": "registered"
+    }
+  ],
+  "rounds": [
+    "https://api.chess.com/pub/tournament/titled-tuesday-blitz-february-10-2026-6221327/1",
+    "https://api.chess.com/pub/tournament/titled-tuesday-blitz-february-10-2026-6221327/2",
+    "https://api.chess.com/pub/tournament/titled-tuesday-blitz-february-10-2026-6221327/3",
+    "https://api.chess.com/pub/tournament/titled-tuesday-blitz-february-10-2026-6221327/4",
+    "https://api.chess.com/pub/tournament/titled-tuesday-blitz-february-10-2026-6221327/5",
+    "https://api.chess.com/pub/tournament/titled-tuesday-blitz-february-10-2026-6221327/6",
+    "https://api.chess.com/pub/tournament/titled-tuesday-blitz-february-10-2026-6221327/7",
+    "https://api.chess.com/pub/tournament/titled-tuesday-blitz-february-10-2026-6221327/8",
+    "https://api.chess.com/pub/tournament/titled-tuesday-blitz-february-10-2026-6221327/9",
+    "https://api.chess.com/pub/tournament/titled-tuesday-blitz-february-10-2026-6221327/10",
+    "https://api.chess.com/pub/tournament/titled-tuesday-blitz-february-10-2026-6221327/11"
+  ]
+}
